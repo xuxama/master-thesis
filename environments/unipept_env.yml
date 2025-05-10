@@ -1,0 +1,5 @@
+name: unipept_env
+channels:
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+prefix: /home/xuxa/miniconda3/envs/unipept_env
